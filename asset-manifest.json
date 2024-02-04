@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first/static/css/main.92f54234.css",
+    "main.js": "/first/static/js/main.96b4eead.js",
+    "static/media/TW-Kai-98_1.ttf": "/first/static/media/TW-Kai-98_1.d8bafded3725e28f8ce9.ttf",
+    "static/media/ToneOZ-Zhuyin-Kai-Traditional.ttf": "/first/static/media/ToneOZ-Zhuyin-Kai-Traditional.89ef2d5ce089c9b4fec4.ttf",
+    "static/media/ToneOZ-RadicalZ-KaiTraditional.ttf": "/first/static/media/ToneOZ-RadicalZ-KaiTraditional.6d8f2cc482482d3b57c4.ttf",
+    "index.html": "/first/index.html",
+    "main.92f54234.css.map": "/first/static/css/main.92f54234.css.map",
+    "main.96b4eead.js.map": "/first/static/js/main.96b4eead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f54234.css",
+    "static/js/main.96b4eead.js"
+  ]
+}
