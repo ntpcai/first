@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.649c9978.css",
-    "main.js": "/static/js/main.483d9ba5.js",
+    "main.js": "/static/js/main.ddde33bf.js",
     "static/media/TW-Kai-98_1.ttf": "/static/media/TW-Kai-98_1.d8bafded3725e28f8ce9.ttf",
     "static/media/ToneOZ-Zhuyin-Kai-Traditional.ttf": "/static/media/ToneOZ-Zhuyin-Kai-Traditional.89ef2d5ce089c9b4fec4.ttf",
     "static/media/ToneOZ-RadicalZ-KaiTraditional.ttf": "/static/media/ToneOZ-RadicalZ-KaiTraditional.6d8f2cc482482d3b57c4.ttf",
     "index.html": "/index.html",
     "main.649c9978.css.map": "/static/css/main.649c9978.css.map",
-    "main.483d9ba5.js.map": "/static/js/main.483d9ba5.js.map"
+    "main.ddde33bf.js.map": "/static/js/main.ddde33bf.js.map"
   },
   "entrypoints": [
     "static/css/main.649c9978.css",
-    "static/js/main.483d9ba5.js"
+    "static/js/main.ddde33bf.js"
   ]
 }
