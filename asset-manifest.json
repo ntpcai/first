@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d94996c.css",
-    "main.js": "/static/js/main.e1af004a.js",
+    "main.css": "/static/css/main.26b7b55f.css",
+    "main.js": "/static/js/main.6d37e853.js",
     "static/media/TW-Kai-98_1.ttf": "/static/media/TW-Kai-98_1.d8bafded3725e28f8ce9.ttf",
     "static/media/ToneOZ-Zhuyin-Kai-Traditional.ttf": "/static/media/ToneOZ-Zhuyin-Kai-Traditional.89ef2d5ce089c9b4fec4.ttf",
     "static/media/ToneOZ-RadicalZ-KaiTraditional.ttf": "/static/media/ToneOZ-RadicalZ-KaiTraditional.6d8f2cc482482d3b57c4.ttf",
     "index.html": "/index.html",
-    "main.1d94996c.css.map": "/static/css/main.1d94996c.css.map",
-    "main.e1af004a.js.map": "/static/js/main.e1af004a.js.map"
+    "main.26b7b55f.css.map": "/static/css/main.26b7b55f.css.map",
+    "main.6d37e853.js.map": "/static/js/main.6d37e853.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d94996c.css",
-    "static/js/main.e1af004a.js"
+    "static/css/main.26b7b55f.css",
+    "static/js/main.6d37e853.js"
   ]
 }
