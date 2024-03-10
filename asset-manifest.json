@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.69da27b9.css",
-    "main.js": "/static/js/main.213fe1b1.js",
-    "static/js/824.7bb9172b.chunk.js": "/static/js/824.7bb9172b.chunk.js",
+    "main.css": "/static/css/main.b79b4f96.css",
+    "main.js": "/static/js/main.a5a8b06f.js",
+    "static/js/824.351bd59e.chunk.js": "/static/js/824.351bd59e.chunk.js",
     "static/js/48.9787f7be.chunk.js": "/static/js/48.9787f7be.chunk.js",
     "static/js/896.36a12e9f.chunk.js": "/static/js/896.36a12e9f.chunk.js",
     "static/js/844.c5f6b19f.chunk.js": "/static/js/844.c5f6b19f.chunk.js",
-    "static/media/backfont.ttf": "/static/media/backfont.c580f3dc0c5ea612266d.ttf",
-    "static/media/frontfont.ttf": "/static/media/frontfont.a634cf4c14d44c220cdd.ttf",
-    "static/media/radicals.ttf": "/static/media/radicals.276acd9c91bdca6a24b8.ttf",
-    "static/media/backfont.woff2": "/static/media/backfont.f368bb599d7af254a4bd.woff2",
-    "static/media/frontfont.woff2": "/static/media/frontfont.8dcde5173249bf88b140.woff2",
-    "static/media/radicals.woff2": "/static/media/radicals.6e0e5f91bc42499c856b.woff2",
     "static/media/6384.mp3": "/static/media/6384.94d4325efe89a7a1aa47.mp3",
     "static/media/4341b.mp3": "/static/media/4341b.262340f73355a0b5e124.mp3",
     "static/media/6384b.mp3": "/static/media/6384b.90c78a542607059d9d1c.mp3",
     "static/media/4341.mp3": "/static/media/4341.447b47caedf72230d4fa.mp3",
     "index.html": "/index.html",
-    "main.69da27b9.css.map": "/static/css/main.69da27b9.css.map",
-    "main.213fe1b1.js.map": "/static/js/main.213fe1b1.js.map"
+    "main.b79b4f96.css.map": "/static/css/main.b79b4f96.css.map",
+    "main.a5a8b06f.js.map": "/static/js/main.a5a8b06f.js.map"
   },
   "entrypoints": [
-    "static/css/main.69da27b9.css",
-    "static/js/main.213fe1b1.js"
+    "static/css/main.b79b4f96.css",
+    "static/js/main.a5a8b06f.js"
   ]
 }
